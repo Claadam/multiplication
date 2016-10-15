@@ -1,0 +1,14 @@
+.input {
+ color: paleturquoise;
+  background-color: black;
+}
+
+#product {
+ color: deepskyblue;
+  text-shadow: 2px 2px #aaaaaa;
+  background-color: beige;
+}
+
+#list {
+ color: blueviolet;
+}
